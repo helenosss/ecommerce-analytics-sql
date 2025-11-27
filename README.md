@@ -59,3 +59,6 @@ The screenshots of the diagrams are available in the repository.
 
 ### Country ranking by sent messages
 ![country_sent_messages_rank_map](https://raw.githubusercontent.com/helenosss/ecommerce-analytics-sql/main/country_sent_messages_rank_map.png)
+
+### Sent emails dynamics
+![sent_emails_dynamics](https://raw.githubusercontent.com/helenosss/ecommerce-analytics-sql/main/sent_emails_dynamics.png)
