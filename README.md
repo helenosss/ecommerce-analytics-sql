@@ -47,3 +47,15 @@ It presents:
 - daily dynamics of sent emails.
   
 The screenshots of the diagrams are available in the repository.
+
+### Created accounts by countries
+![created_accounts_by_countries](https://raw.githubusercontent.com/helenosss/ecommerce-analytics-sql/main/created_accounts_by_countries.png)
+
+### Sent messages by countries
+![sent_messages_by_countries](https://raw.githubusercontent.com/helenosss/ecommerce-analytics-sql/main/sent_messages_by_countries.png)
+
+### Country ranking by created accounts
+![country_account_rank_map](https://raw.githubusercontent.com/helenosss/ecommerce-analytics-sql/main/country_account_rank_map.png)
+
+### Country ranking by sent messages
+![country_sent_messages_rank_map](https://raw.githubusercontent.com/helenosss/ecommerce-analytics-sql/main/country_sent_messages_rank_map.png)
